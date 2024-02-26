@@ -6,8 +6,8 @@ import styled from 'styled-components';
 const MainSection = () => {
   return (
     <Con className='flex justify-center items-center flex-col'>
-      <h1 data-aos="zoom-in">COMING SOON</h1>
-      <p data-aos="zoom-in">We will be here soon, click on "Notify Me" to be ready for the grand day</p>
+      <h1>COMING SOON</h1>
+      <p>We will be here soon, click on "Notify Me" to be ready for the grand day</p>
       <WhiteButton >NOTIFY ME</WhiteButton>
     </Con>
   )
